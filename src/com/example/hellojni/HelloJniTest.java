@@ -13,6 +13,7 @@ import android.test.ActivityInstrumentationTestCase;
  * com.example.HelloJni.tests/android.test.InstrumentationTestRunner
  * Testing 1,2,3...
  * This is a branch!!!
+ * This is a second branch!!!
  */
 @SuppressWarnings("deprecation")
 public class HelloJniTest extends ActivityInstrumentationTestCase<HelloJni> {
