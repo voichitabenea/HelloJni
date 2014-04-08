@@ -11,6 +11,7 @@ import android.test.ActivityInstrumentationTestCase;
  * adb shell am instrument -w \
  * -e class com.example.HelloJni.HelloJniTest \
  * com.example.HelloJni.tests/android.test.InstrumentationTestRunner
+ * Testing 1,2,3...
  */
 @SuppressWarnings("deprecation")
 public class HelloJniTest extends ActivityInstrumentationTestCase<HelloJni> {
