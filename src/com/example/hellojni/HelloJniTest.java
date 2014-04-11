@@ -14,7 +14,7 @@ import android.test.ActivityInstrumentationTestCase;
  * Testing 1,2,3...
  * This change I want to keep!!!
  * New repo
- * New branch
+ * Is it true, is this the new repo?!
  */
 @SuppressWarnings("deprecation")
 public class HelloJniTest extends ActivityInstrumentationTestCase<HelloJni> {
