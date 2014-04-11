@@ -14,6 +14,7 @@ import android.test.ActivityInstrumentationTestCase;
  * Testing 1,2,3...
  * This change I want to keep!!!
  * New repo
+ * After clone push
  */
 @SuppressWarnings("deprecation")
 public class HelloJniTest extends ActivityInstrumentationTestCase<HelloJni> {
