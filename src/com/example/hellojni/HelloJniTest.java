@@ -13,6 +13,7 @@ import android.test.ActivityInstrumentationTestCase;
  * com.example.HelloJni.tests/android.test.InstrumentationTestRunner
  * Testing 1,2,3...
  * This change I want to keep!!!
+ * New repo
  */
 @SuppressWarnings("deprecation")
 public class HelloJniTest extends ActivityInstrumentationTestCase<HelloJni> {
